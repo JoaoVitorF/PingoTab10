@@ -1,8 +1,7 @@
 # PingoTab10
 Gerenciador de abas para navegador Chome
 
-Baixe o programa aqui:  - [`PingoTabs10.zip`][direct-win64] (64-bit)  
+Baixe o programa aqui:- [PingoTabs10.zip](https://pages.github.com/(https://github.com/JoaoVitorF/PingoTab10/blob/e475fb0948bb8846166107a481fff8a76be93c66/bin/Debug/net5.0-windows/PingoTab10.zip))
 
-[latest release]: https://github.com/Genymobile/scrcpy/releases/latest
-[direct-win64]: [https://github.com/Genymobile/scrcpy/releases/download/v2.1.1/scrcpy-win64-v2.1.1.zip]
-[direct-win32]: https://github.com/Genymobile/scrcpy/releases/download/v2.1.1/scrcpy-win32-v2.1.1.zip
+
+
